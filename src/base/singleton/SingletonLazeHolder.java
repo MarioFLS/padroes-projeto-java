@@ -1,4 +1,4 @@
-package base;
+package base.singleton;
 
 public class SingletonLazeHolder {
   private static class InstanceHolder {

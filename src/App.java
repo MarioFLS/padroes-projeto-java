@@ -1,6 +1,6 @@
-import base.SingletonEager;
-import base.SingletonLazeHolder;
-import base.SingletonLazy;
+import base.singleton.SingletonEager;
+import base.singleton.SingletonLazeHolder;
+import base.singleton.SingletonLazy;
 
 public class App {
     public static void main(String[] args) throws Exception {

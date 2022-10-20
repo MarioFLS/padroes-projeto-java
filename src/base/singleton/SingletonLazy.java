@@ -1,4 +1,4 @@
-package base;
+package base.singleton;
 
 /**
  * Singleton "preguiçoso"
